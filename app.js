@@ -5,9 +5,9 @@ import express from "express";
 import cors from "cors";
 
 const app = express();
-
-app.use(bodyParser.json());
 app.use(express.static("public"));
+app.use(bodyParser.json());
+
 const allowedOrigins = ['http://localhost:5173', 'https://avtoboya.netlify.app'];
 
     app.use(cors({
