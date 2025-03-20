@@ -2,15 +2,18 @@ import fs from "node:fs/promises";
 
 import bodyParser from "body-parser";
 import express from "express";
+import cors from "cors";
 
-const cors = require("cors");
 const app = express();
 
 app.use(bodyParser.json());
 app.use(express.static("public"));
 app.use(
   cors({
-    origin: "https://avtoboya.netlify.app",
+    origin: "https://avtnpmoboya.netlify.app",
+    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+    credentials: true,
+    optionsSuccessStatus: 204,
   })
 );
 
