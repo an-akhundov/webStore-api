@@ -30,6 +30,10 @@ app.use((req, res, next) => {
   next();
 });
 
+app.get('/', (req, res) => {
+    res.json({ message: 'Welcome to the AvtoBoya API!' }); // Or any desired response
+});
+
 app.get("/goods", async (req, res) => {
   const meals = await fs.readFile("./data/goods.json", "utf8");
   res.json(JSON.parse(meals));
