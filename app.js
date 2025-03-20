@@ -101,7 +101,7 @@ app.use((req, res) => {
   res.status(404).json({ message: "Not found" });
 });
 
-const port = 3000;
-    app.listen(port, () => {
-        console.log(`Server listening on port ${port}`);
-    });
+const port = process.env.PORT || 3000; // Use Heroku's port or default to 3000
+app.listen(port, () => {
+    console.log(`Server listening on port ${port}`);
+});
