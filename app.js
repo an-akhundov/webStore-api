@@ -8,7 +8,20 @@ const app = express();
 
 app.use(bodyParser.json());
 app.use(express.static("public"));
-app.use(cors());
+const allowedOrigins = ['https://your-frontend-domain.com'];
+
+    app.use(cors({
+        origin: function (origin, callback) {
+            if (allowedOrigins.indexOf(origin) !== -1 || !origin) {
+                callback(null, true);
+            } else {
+                callback(new Error('Not allowed by CORS'));
+            }
+        },
+        methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+        credentials: true,
+        optionsSuccessStatus: 204,
+    }));
 
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
