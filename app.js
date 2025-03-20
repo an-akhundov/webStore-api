@@ -3,10 +3,16 @@ import fs from "node:fs/promises";
 import bodyParser from "body-parser";
 import express from "express";
 
+const cors = require("cors");
 const app = express();
 
 app.use(bodyParser.json());
 app.use(express.static("public"));
+app.use(
+  cors({
+    origin: "https://avtoboya.netlify.app",
+  })
+);
 
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
