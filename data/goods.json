@@ -24,49 +24,49 @@
       "id": "clear-1",
       "name": "Clear Akripol Duagloss 3000",
       "price": 36,
-      "image": "images/clear-1.jpg"
+      "image": "1HX0OiGQ0HQv5ZAM8ec8GqeNRC82EhbUo"
     },
     {
       "id": "clear-2",
       "name": "Clear Akripol Superclear",
       "price": 36,
-      "image": "images/clear-2.jpg"
+      "image": "1rb-gU9Ckjd2MJFGjDJRt2UWynTd2WpUR"
     },
     {
       "id": "clear-3",
       "name": "Clear Baslac",
       "price": 48,
-      "image": "images/clear-3.jpg"
+      "image": "1ilR0eeox_Ogl_aUOA7ercG6dhd0WF90m"
     },
     {
       "id": "clear-4",
       "name": "Clear Mobihel",
       "price": 0,
-      "image": "images/clear-4.jpg"
+      "image": "19f16OZMCzqJuiE5ywJsAbBXqCZ6j6abI"
     },
     {
       "id": "clear-5",
       "name": "Clear NOVOL HS",
       "price": 36,
-      "image": "images/clear-5.jpg"
+      "image": "1uw7cc81L97XEYdADdLr9q4NC9D8PlnAC"
     },
     {
       "id": "clear-6",
       "name": "Clear NOVOL MS",
       "price": 36,
-      "image": "images/clear-6.jpg"
+      "image": "105qAhUbxLECc2NCvXjZ4MTv5wBLVa-GC"
     },
     {
       "id": "clear-7",
       "name": "Clear Roberto HS",
       "price": 45,
-      "image": "images/clear-7.jpg"
+      "image": "17snhdUgBQPXvADFXcMCrXhm5kcDmdg0l"
     },
     {
       "id": "clear-8",
       "name": "Clear Sikkens HS",
       "price": 70,
-      "image": "images/clear-8.jpg"
+      "image": "1ex_RM_7haBnzUUlnIRKQiozw67lYpQSf"
     }
   ],
   "hardener": [
@@ -74,25 +74,25 @@
       "id": "hardener-1",
       "name": "Hardener Sikkens",
       "price": 70,
-      "image": "images/hardener-1.jpg"
+      "image": "18pKbaqisjuy0kC4TMdVHGX6YvYMDizvs"
     },
     {
       "id": "hardener-2",
       "name": "Hardener",
       "price": 0,
-      "image": "images/hardener-2.jpg"
+      "image": "1qbrCXoXMvB7gx7V8Vw3IUfvXCoNmMNOM"
     },
     {
       "id": "hardener-3",
       "name": "Hardener Akripol",
       "price": 35,
-      "image": "images/hardener-3.jpg"
+      "image": "1nNoSS3g_ntkO0vlXIOWmbK-TtY0zGEUU"
     },
     {
       "id": "hardener-4",
       "name": "Hardener Novol",
       "price": 0,
-      "image": "images/hardener-4.jpg"
+      "image": "1Y3cpvSZCHACX7WGRBW9veAH2nSswl_Jf"
     }
   ],
   "paint": [
@@ -100,37 +100,37 @@
       "id": "paint-1",
       "name": "Paint Akzonobel Akripol 2k",
       "price": 35,
-      "image": "images/paint-1.jpg"
+      "image": "1gRqlcb1B37_eKozo7kw_khyEQ8hay-rB"
     },
     {
       "id": "paint-2",
       "name": "Paint DYO 1k",
       "price": 28,
-      "image": "images/paint-2.jpg"
+      "image": "18RbUeQIWKYYJR83iSg8X2nKDXbPF7x5m"
     },
     {
       "id": "paint-3",
       "name": "Paint Mipa 1k",
       "price": 38,
-      "image": "images/paint-3.jpg"
+      "image": "1wZv64iyl4KNTt7Tsl2JsiYy2rm1vow6R"
     },
     {
       "id": "paint-4",
       "name": "Paint Mipa 2k",
       "price": 38,
-      "image": "images/paint-4.jpg"
+      "image": "1ylD4wkJ2TAsaJtlgWi7gwKVbwgtbuC3Q"
     },
     {
       "id": "paint-5",
       "name": "Mobihel 1k",
       "price": 38,
-      "image": "images/paint-5.jpg"
+      "image": "1xkW834c3T6b04v5gEn25weSKcUV-E30h"
     },
     {
       "id": "paint-6",
       "name": "Paint Zanat Akril 2k",
       "price": 28,
-      "image": "images/paint-6.jpg"
+      "image": "1GnFiwDotGqbnS7iIYQKCnPhdWu5g5k-l"
     }
   ],
   "matching": [
@@ -138,19 +138,19 @@
       "id": "matching-1",
       "name": "Germany color matching",
       "price": 80,
-      "image": "images/matching-1.jpg"
+      "image": "1GblYJSZhp8uId2rQjcE7yj2_vH3oXsH9"
     },
     {
       "id": "matching-2",
       "name": "Holland color matching",
       "price": 120,
-      "image": "images/matching-2.jpg"
+      "image": "1EMVp2-bNZ3QPsFz6n71bSNbMuBB0J0OG"
     },
     {
       "id": "matching-3",
       "name": "China color matching",
       "price": 60,
-      "image": "images/matching-3.jpg"
+      "image": "1XI4IVE2k-jaUNSL_xNbgT3yLLoNeGruH"
     }
   ],
   "polish": [
@@ -158,37 +158,37 @@
       "id": "polish-1",
       "name": "Medium soft sponge S",
       "price": 10,
-      "image": "images/polish-1.jpg"
+      "image": "1ONvj6rG28Kj1aUXDVBazEGPDW4_R0jLL"
     },
     {
       "id": "polish-2",
       "name": "Hard rotary sponge",
       "price": 15,
-      "image": "images/polish-2.jpg"
+      "image": "1cBcJ_Hd-J0QIbZU2UQqORFETlbKx92Kn"
     },
     {
       "id": "polish-3",
       "name": "Set of polishing sponges",
       "price": 45,
-      "image": "images/polish-3.jpg"
+      "image": "1NIraGctZKHudm5NI6aYIVRkf8wISXd3C"
     },
     {
       "id": "polish-4",
       "name": "Polishing paste Repes",
       "price": 60,
-      "image": "images/polish-4.jpg"
+      "image": "1L0i86rp9tux7GiJV39Iyqw2Te3FD37Nv"
     },
     {
       "id": "polish-5",
       "name": "Medium soft sponge M",
       "price": 15,
-      "image": "images/polish-5.jpg"
+      "image": "1jl1Nqss_klG5hFXxpVz18y5fNjKIgl-J"
     },
     {
       "id": "polish-6",
       "name": "Hard polishing sponge M",
       "price": 15,
-      "image": "images/polish-6.jpg"
+      "image": "17TTcb3aITWrqKMBKJHtRc6JXWqBRw0hM"
     }
   ],
   "solvent": [
@@ -196,13 +196,13 @@
       "id": "solvent-1",
       "name": "Solvent 646",
       "price": 5,
-      "image": "images/solvent-1.jpg"
+      "image": "https://drive.google.com/file/d/1RkPYunY1e4oOARLlQBJ6xFn5g1BdN2Dq/view?usp=sharing"
     },
     {
       "id": "solvent-2",
       "name": "Solvent universal Akripol",
       "price": 19,
-      "image": "images/solvent-2.jpg"
+      "image": "https://drive.google.com/file/d/14uOF2KFmMlvyz5ZHDjqTzjLPVQdBDTCf/view?usp=sharing"
     }
   ],
   "putty": [
@@ -210,19 +210,19 @@
       "id": "putty-1",
       "name": "Putty for plastic Akripol",
       "price": 19,
-      "image": "images/putty-1.jpg"
+      "image": "18HCou3uUtAvSPbUcyFoyEyRUWXsE7i6C"
     },
     {
       "id": "putty-2",
       "name": "Putty NOVOL aluminum",
       "price": 23,
-      "image": "images/putty-2.jpg"
+      "image": "1hIqPkB_Cx2BCMIMnnh8kqiomnmc2g4HO"
     },
     {
       "id": "putty-3",
       "name": "Putty NOVOL yellow",
       "price": 19,
-      "image": "images/putty-3.jpg"
+      "image": "13ejYsgxk_ttIcA5OPMdog6hl-7K6EtsK"
     }
   ]
 }
