@@ -8,7 +8,7 @@ const app = express();
 app.use(express.static("public"));
 app.use(bodyParser.json());
 
-const allowedOrigins = ['http://localhost:5173', 'https://avtoboya.netlify.app', 'https://avtoboya.az'];
+const allowedOrigins = ['http://localhost:5173', 'https://avtoboya.netlify.app', 'https://www.avtoboya.az', 'https://avtoboya.az'];
 
     app.use(cors({
         origin: function (origin, callback) {
