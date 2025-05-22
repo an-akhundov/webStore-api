@@ -41,7 +41,7 @@
     {
       "id": "clear-4",
       "name": "Clear Mobihel",
-      "price": 0,
+      "price": 48,
       "image": "19f16OZMCzqJuiE5ywJsAbBXqCZ6j6abI"
     },
     {
@@ -78,8 +78,8 @@
     },
     {
       "id": "hardener-2",
-      "name": "Hardener",
-      "price": 0,
+      "name": "Hardener Optima 1L",
+      "price": 25,
       "image": "1qbrCXoXMvB7gx7V8Vw3IUfvXCoNmMNOM"
     },
     {
@@ -87,12 +87,6 @@
       "name": "Hardener Akripol",
       "price": 35,
       "image": "1nNoSS3g_ntkO0vlXIOWmbK-TtY0zGEUU"
-    },
-    {
-      "id": "hardener-4",
-      "name": "Hardener Novol",
-      "price": 0,
-      "image": "1Y3cpvSZCHACX7WGRBW9veAH2nSswl_Jf"
     }
   ],
   "paint": [
@@ -175,7 +169,7 @@
     {
       "id": "polish-4",
       "name": "Polishing paste Repes",
-      "price": 60,
+      "price": 70,
       "image": "1L0i86rp9tux7GiJV39Iyqw2Te3FD37Nv"
     },
     {
@@ -195,7 +189,7 @@
     {
       "id": "solvent-1",
       "name": "Solvent 646",
-      "price": 5,
+      "price": 3,
       "image": "1RkPYunY1e4oOARLlQBJ6xFn5g1BdN2Dq"
     },
     {
